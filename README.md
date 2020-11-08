@@ -4,3 +4,11 @@ Discovery of biosynthesis pathway of natural products is increasingly guided by 
 
 
 For the structure comparison, the compound of interest could be inspected for a distinguishing structural feature (for example, a specific chemical modification or ring structure in the compound) that is reported in a known compound with characterized biosynthetic gene cluster (BGC).  
+
+Live version of app deployed at : https://rajwanir2.shinyapps.io/mibig_struc/
+
+Users can cite the orignal MIBiG databse:
+
+Kautsar, S.A., et al., MIBiG 2.0: a repository for biosynthetic gene clusters of known function. Nucleic Acids Research, 2019. 48(D1): p. D454-D458.
+
+
