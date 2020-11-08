@@ -7,7 +7,7 @@ For the structure comparison, the compound of interest could be inspected for a 
 
 Live version of app deployed at : https://rajwanir2.shinyapps.io/mibig_struc/
 
-Users can cite the orignal MIBiG databse:
+Users can cite the orignal MIBiG database:
 
 Kautsar, S.A., et al., MIBiG 2.0: a repository for biosynthetic gene clusters of known function. Nucleic Acids Research, 2019. 48(D1): p. D454-D458.
 
