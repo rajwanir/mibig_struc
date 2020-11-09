@@ -4,7 +4,7 @@ Discovery of biosynthesis pathway of natural products is increasingly guided by 
 
 Often a sequence comparison to MiBIG database do not yield significant hits. For instance, when producing organism and the BGC is evolutionary unrelated to those available in MiBIG. In such case, structure comparison could hint on the enzymatic machinery needed for biosynthesis.  For the structure comparison, the compound of interest could be inspected for a distinguishing structural feature (for example, a specific chemical modification or ring structure in the compound) that is reported in a known compound with characterized biosynthetic gene cluster (BGC).  
 
-The Substructure Search in MIBiG (SSMIBIG) obtains all compounds containing the queried structural element via PubChem, seraches MIBIG database and returns the information about the matched entry. 
+The Substructure Search in MIBiG (SSMIBIG) obtains all compounds containing the queried structural element via PubChem, searches MiBIG database and returns the information about the matched entry. 
 
 Live version of app deployed at : https://rajwanir2.shinyapps.io/mibig_struc/
 
